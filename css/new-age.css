@@ -9,12 +9,12 @@ body {
 }
 
 a {
-  color: #fdcc52;
+  color: #e37eaa;
   transition: all .35s;
 }
 
 a:hover, a:focus {
-  color: #fcbd20;
+  color: #de699c;
 }
 
 hr {
@@ -63,7 +63,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #f8f8ff;
+  color: #e37eaa;
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
@@ -87,7 +87,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav > li > a.active {
-  color: #1d4670 !important;
+  color: #de699c !important;
   background-color: transparent;
 }
 
@@ -140,7 +140,7 @@ section h2 {
   }
   #mainNav.navbar-shrink .navbar-nav > li > a:hover,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover {
-    color: #fdcc52;
+    color: #e37eaa;
   }
 }
 
